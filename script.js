@@ -1,5 +1,2 @@
-let arr=[[{one:1,two:2},{three:3, four:4}],[{a:"a",b: "b"},{
-	c:"c",
-	d:"d"
-}]];
-console.log(arr);
+let yourArray=['hello',42,true,null,'world'];
+cansole.log(yourArray.length);
