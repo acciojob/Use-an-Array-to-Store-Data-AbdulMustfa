@@ -1,1 +1,1 @@
-let yourArray = [ 12, "Abdul",true, 13,15]
+let yourArray = [ 12, "Abdul",true, 13,15];
